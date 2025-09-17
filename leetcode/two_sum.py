@@ -1,6 +1,7 @@
 # LeetCode: Two Sum
 # Topic: Hashmap
 # Source: NeetCode 150
+# Solved on: 17/09/2025
 
 def twoSum(nums, target):
     hashmap = {}
