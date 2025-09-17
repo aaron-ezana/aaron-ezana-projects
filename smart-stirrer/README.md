@@ -1,5 +1,5 @@
 # Smart Stirrer – Viscosity Prediction
-
+  
 This is my MEng individual project focused on using machine learning to estimate liquid viscosity in real-time using sensor data from a smart magnetic stirrer.
 
 ## 🔍 Project Summary
