@@ -8,6 +8,7 @@ Welcome to my technical projects portfolio. This repository includes a range of 
 Developing a Python-based machine learning model to predict fluid viscosity in real-time using data from the Smart Stirrer platform.  
 Tools: Python, scikit-learn, simulated rheological datasets  
 Status: Data preprocessing and model pipeline development
+[Go to folder →](./smart-stirrer)
 
 ### 📂 LeetCode Practice  
 A collection of solved coding problems using Python, as part of my technical interview preparation (NeetCode 150 Plan).  
