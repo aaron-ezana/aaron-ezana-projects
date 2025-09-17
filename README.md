@@ -1,4 +1,3 @@
-# aaron-ezana-projects
 # Aaron Ezana – Tech Projects
 
 Welcome to my technical projects portfolio. This repository includes a range of personal and academic work focused on software development, machine learning, and embedded systems.
